@@ -11,7 +11,7 @@ a repository of files explained during the talk on Natural Language Processing u
 
 2. Saman Taghavi's talk on sentiment analysis using ParsBert on Digikala Comments
 
-  * [Binary sentiment analysis on Digikala Comments using ParsBERT](https://colab.research.google.com/drive/1dfkpljZwGl2ZXzv0rAbHApNCpf48sEFX?usp=sharing)
+  * [Binary sentiment analysis on Digikala Comments using ParsBERT](https://colab.research.google.com/drive/1SSEwwgCPcJf3jkjQYAnm27pbL7UWsPF_?usp=sharing)
 
 3. Mohammadreza Varasteh's talk on Persian News Text Classification using ParsBert
 
